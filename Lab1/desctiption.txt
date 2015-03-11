@@ -1,0 +1,7 @@
+Liczymy sobie n-gramy, czyli wektor o długości 32^2.
+
+potem dla każdego zioru tekstu bierzemy go i parsujemy na n-liteowe kawałki.
+Incrementujemy ten wektor w danych miejscach i obliczamy cały wektor
+Normalizujemy wektor
+zapisujemy do pliku
+obliczamy ten sam wektr dla innego kawałka tekstu i obliczamy metrykę tych 2 wektorów.
