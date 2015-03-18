@@ -5,7 +5,7 @@ filesByLanguage = dict(polish=['polski', 'polski2', 'polski3'], spanish=['q', 's
                        english=["Harry Potter 1 Sorcerer's_Stone", "Harry Potter 2 Chamber_of_Secrets",
                                 "Harry Potter 3 Prisoner of Azkaban", "Harry Potter 4 and the Goblet of Fire"])
 
-ngramSummaryReader = NgramSummaryReader(False)
+ngramSummaryReader = NgramSummaryReader(True)
 n = 3
 
 for language, files in filesByLanguage.iteritems():

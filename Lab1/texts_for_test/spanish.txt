@@ -1,0 +1,77 @@
+Existen tres características esenciales del proyecto Wikipedia que definen en conjunto su función en la web. El lema «La enciclopedia libre que todos pueden editar» explica los tres principios:28
+
+Es una enciclopedia, entendida como soporte que permite la recopilación, el almacenamiento y la transmisión de la información de forma estructurada.
+Es un wiki, por lo que, con pequeñas excepciones, puede ser editada por cualquiera.
+Es de contenido abierto.
+Según su cofundador, Jimmy Wales, el proyecto constituye «un esfuerzo para crear y distribuir una enciclopedia libre, de la más alta calidad posible, a cada persona del planeta, en su idioma», para lograr «un mundo en el que cada persona del planeta tenga acceso libre a la suma de todo el saber de la humanidad».29 Se desarrolla en el sitio Wikipedia.org haciendo uso de un software wiki —término originalmente usado para el WikiWikiWeb—.
+
+
+Han existido y existen muchas enciclopedias en línea que compitieron con Wikipedia, como Microsoft Encarta y Encyclopædia Britannica; sin embargo, ninguna ha logrado el mismo éxito.30 31 Pese a su competición, la enciclopedia ha atraído la atención de otras tradicionales influidas popularmente.32
+
+Según un estudio realizado por la revista Nature en 2007, «Wikipedia alcanzaba a la Enciclopedia Británica» en calidad,33 aunque existe controversia sobre este asunto.34 35 Además, sus contenidos están disponibles en formato impreso.36 37
+
+Otro estudio realizado por la Universidad Carnegie Mellon y Palo Alto Research Center sobre las mayores categorías de artículos en la Wikipedia en inglés desde julio de 2006 hasta enero de 2008, arrojó los siguientes resultados:38
+
+
+Para la visualización de artículos, la fundación Wikimedia rediseñó la interfaz con un tema o tapiz que se conoce como vector, creado en el 2010.41 42 Antes de la actualización, años atrás existía una interfaz clásica conocida como Monobook con limitadas características.43 Dentro de la interfaz, existen variedad de mandos usados para navegar o editar páginas. Por ejemplo, para buscar, ir a otros enlaces o ampliar imágenes como otros sitios web. Además, mediante las pestañas, pueden navegar, interaccionar o colaborar con otras páginas. Aunque algunas actividades de mantenimiento, son ocultas para los usuarios no registrados en el proyecto.44
+
+Para editar un artículo se recurre al código wiki en una caja de texto a través de la pestaña "Editar" que no siempre está disponible en caso de alguna prevención contra el vandalismo.44 45 Entre sus mandos, no se asemejan al clásico HTML; por ejemplo para los enlaces se usan corchetes, signos iguales para los títulos, entre otros, dando una mala impresión para los que no tengan conocimientos en Informática.46
+
+Algunos proyectos, como el de la Stanford Encyclopedia of Philosophy, o el de la ahora abandonada Nupedia, se basan en políticas editoriales tradicionales y de autoría de artículos tipo «escritura por expertos». Ocasionalmente aparecen sitios web como h2g2 o everything2 que siguen unas pautas generales preestablecidas, donde los artículos solo pueden ser redactados y controlados por cada persona de forma individual.50 51
+
+Contrariamente, proyectos como Wikipedia, Susning.nu o la Enciclopedia Libre son wikis en los que los artículos son desarrollados por numerosos autores, y no existe un criterio de revisión formal. Wikipedia es la enciclopedia más grande en cuanto a número de artículos o palabras jamás escrita. Al contrario de lo que sucede con muchas otras, su contenido está liberado bajo licencias de contenido abierto.
+
+Wikipedia dispone de un conjunto de políticas y convenciones que sirven para decidir qué información debe o no incluirse.52 Estas políticas se utilizan para resolver disputas relativas a la creación, edición y borrado de artículos, así como a la transferencia de estos a un proyecto hermano por no tratarse de información enciclopédica (véase la sección Fundación Wikimedia y los proyectos hermanos).
+
+Cultura
+
+Un ejemplo de una guerra de ediciones en el artículo España.
+La cultura de la sociedad ha variado, según el estado, en cada versión. En el caso principal, la Wikipedia en español cualquier persona tiene la posibilidad de crear un artículo nuevo y casi cualquier visitante puede editar el contenido, a excepción de los artículos que se encuentran protegidos. Sin embargo, en la inglesa los usuarios no registrados no pueden comenzar artículos desde cero. Wikipedia fue creada con la idea de producir textos de calidad a partir de la colaboración entre usuarios, a semejanza de los proyectos de desarrollo de aplicaciones libres.
+
+Los artículos evolucionan con el paso del tiempo, y esto es visible en su historial de ediciones. Habitualmente, una parte de las ediciones son vandálicas —de contenido no relacionado con Wikipedia o con información falsa—, y en ocasiones editores con puntos de vista encontrados producen lo que se conoce como guerra de ediciones. Esta se produce cuando dos o más editores entran en un ciclo de reversiones mutuas debido a disputas causadas por diferencias de opinión sobre el contenido del artículo. No hay que confundir vandalismo —que frecuentemente afecta una sola vez a un artículo o artículos— con guerra de ediciones, la cual afecta repetidas veces a un mismo artículo en un breve lapso. Entre los artículos vandalizados frecuentemente en la edición en español destacan: George W. Bush, Benedicto XVI o Testigos de Jehová; mientras que artículos con fuertes guerras de ediciones son Cuba o Comunidad Valenciana, debido a la disparidad entre las opiniones de sus redactores.
+
+Cada capítulo de Wikipedia cuenta con un grupo de personal, encargado en la cooperación. Dentro de esta lista se mencionan a administradores, cuyas funciones fundamentales son hacer mantenimiento —tal como borrar artículos, bloquear vándalos y otras funciones— y estar al servicio del cumplimiento de las normas que la rigen. El capítulo con más administradores es la Wikipedia en inglés, con un total de más de 1600.53
+
+Mascota
+Debido a su considerable popularidad, existieron propuestas de mascotas que representaban a Wikipedia de una manera no oficial. La primera en aparecer la fue de Wikípedo, una hormiga trabajadora dedicado al mantenimiento de sus contribuciones.54 Su popularidad fue poca.
+
+En el 2004, en una votación para ser remplazada o abandonada, la comunidad eligió a Wikipe-tan, un personaje tipo OS-tan dibujada por un usuario diseñador gráfico para un proyecto de anime y manga.55 No obstante, ha sido criticada por ser sexuada, considerado ofensivo por partes de la comunidad.56 57 58
+
+Marca corporativa
+Artículo principal: Marcas corporativas de Wikipedia
+
+Las cinco marcas corporativas oficiales utilizadas anteriormente por Wikipedia, desde su creación hasta mayo de 2010.
+
+Elemento gráfico usado desde mayo de 2010.
+Desde sus inicios en 2001, Wikipedia ha utilizado diferentes marcas corporativas.
+
+El elemento común en todas ellas es una esfera escrita como elemento central, simbolizando el mundo y el conocimiento.
+
+En 2003, se adoptó por concurso internacional el dibujo de una esfera incompleta, conocida como globo-rompecabezas, compuesta por piezas de un rompecabezas de varios colores, con enlaces en azul pertenecientes a distintas escrituras del mundo, simbolizando así la condición de «obra en construcción» que tiene Wikipedia.59 El diseño que ganó el concurso internacional sufrió algunas modificaciones antes de ser aprobado como logo oficial, principalmente la eliminación del color y el reemplazo de los enlaces por grafemas de diversas escrituras del mundo.
+
+La denuncia de diversos errores e inconsistencias en los símbolos incluidos en el globo-rompecabezas y la posibilidad de diseñar una imagen animada o fotorrealista impulsó entre diversos editores de Wikipedia un debate sobre la posibilidad de realizar modificaciones en el elemento gráfico. Como consecuencia, y tras la labor realizada a través de una iniciativa de la Fundación Wikimedia junto a miles de voluntarios para modificar la interfaz de la enciclopedia, el dibujo de la globo-rompecabezas fue reemplazado en 2010 por un modelo tridimensional, en el que algunos símbolos de las piezas de rompecabezas fueron reemplazados por otros, principalmente aquellos que constituyen el primer grafema de la palabra "Wikipedia" en distintas wikipedias que existen en el mundo. Adicionalmente se cambió la tipografía del elemento denominativo —«WIKIPEDIA, La enciclopedia libre»— para usar la fuente abierta Linux Libertine, con excepción de la W inicial que se mantiene con la fuente Hoefler Text y constituye también uno de los símbolos oficiales.60 61 62
+
+Cada Wikipedia según idioma es autónoma y tiene facultades para elegir la marca que la identifique. A partir de 2003 todas han adoptado básicamente la misma, con el elemento denominativo «Wikipedia, The free encyclopedia» —«Wikipedia, La enciclopedia libre»— traducido al idioma en que se escribe cada una. Las marcas han sido realizadas voluntaria y gratuitamente por usuarios de Wikipedia, y sus derechos pertenecen a la Fundación Wikimedia.
+
+Historia
+Artículo principal: Historia de Wikipedia
+
+La marca corporativa de Nupedia.
+Creadores de Wikipedia.
+Jimmy «Jimbo» Wales.
+Jimmy «Jimbo» Wales.
+Larry Sanger.
+Larry Sanger.
+En marzo de 2000, Jimmy Wales creó Nupedia, un proyecto de enciclopedia libre basado en un ambicioso y exhaustivo63 proceso de revisión por pares, diseñado para hacer sus artículos de una calidad comparable a la de las enciclopedias profesionales gracias a la participación de eruditos –principalmente doctorandos y académicos—, a los que se proponía colaborar de modo no remunerado. El proyecto tuvo el apoyo económico de la empresa Bomis, fundada por Wales y administrada por este junto con un compañero desde 1996,64 y la colaboración de Richard Stallman, quien propuso el cambio a la licencia pública general de GNU, desde la antigua Nupedia Open Content License.65 Larry Sanger, doctor en filosofía, que ya conocía anteriormente a Wales de mantener con él discusiones filosóficas por Internet, fue contratado por este y se convirtió en redactor jefe de Nupedia.64
+
+Debido al lento avance del proyecto, en 2001 se creó un wiki —UseMod— vinculado a Nupedia cuya finalidad inicial era agilizar la creación de artículos de forma paralela, antes de que estos pasaran al sistema de revisión por expertos. Existe cierta polémica entre los fundadores de Nupedia sobre quién propuso originalmente la idea de usar un wiki a Jimbo Wales, si Larry Sanger o bien una tercera persona,66 pero el caso es que el éxito de aquel «pequeño proyecto paralelo» —Wikipedia— acabó eclipsando a Nupedia, que dejó de funcionar en 2003.
+
+
+El artículo "UuU", creado el 16 de enero de 2001, es aceptado como el artículo actualmente existente más antiguo de Wikipedia. Apareció en la Wikipedia en inglés y así es como puede verse aquella primera edición, recurriendo al historial.
+El proyecto Wikipedia se inició el 15 de enero de 2001. El artículo más antiguo que puede encontrarse en Wikipedia es UuU, creado el 16 de enero de 2001 en la versión inglesa; consistía en tres enlaces hacia sendos artículos sobre el Reino Unido, Estados Unidos y Uruguay.67 Larry Sanger pasó a colaborar con Wikipedia y trabajó activamente en la organización y directrices del proyecto, marchándose en 2002 por desacuerdos con Wales.64 Ese año, Wikipedia abarcaba 26 idiomas, en 2003, 46, y 161 a finales de 2004. Wikipedia y Nupedia coexistieron hasta la extinción de la segunda en 2003.68 Sin embargo, la posibilidad de utilizar publicidad en Wikipedia provocó una reacción de parte de los contribuyentes de la Wikipedia en español, motivo que llevó a la creación de la Enciclopedia Libre Universal en Español en febrero de 2002.69 Este episodio podría haber impulsado a su vez la determinación de no utilizar publicidad, la creación de la Fundación Wikimedia y el cambio al nuevo url.70
+
+Se han iniciado otros varios proyectos de enciclopedia con formato wiki, en gran parte bajo una filosofía diferente de la apertura y el modelo editorial del «punto de vista neutral» desarrollado por Wikipedia. Por ejemplo, Wikinfo, uno de los portales web, no requiere un punto de vista neutral y permite la investigación original.71 También hubo nuevos proyectos inspirados en Wikipedia —como Citizendium, Scholarpedia, Conservapedia, y Knol de Google72 — donde algunos de los aspectos que son fundamentales en Wikipedia se abordan de manera diferenciada, como las políticas de revisión por pares, la investigación original, y la publicidad comercial.
+
+El 20 de septiembre de 2004 Wikipedia alcanzó 1 millón de artículos en 100 idiomas.73 En 2007, la versión en inglés superó los 2 millones de artículos, convirtiéndose en la enciclopedia con mayor número de artículos de la historia y superando en ese aspecto a la Yongle Dadian de 1407, que sostuvo el récord durante varios siglos.74 Debido a su popularidad y sencillez, el Oxford English Dictionary ha considerado introducir el término wiki.75
+
+En octubre de 2011, Wikimedia anunció el lanzamiento de Wikipedia Zero, una iniciativa para permitir el acceso gratuito móvil ( datos ) a la Wikipedia en países del tercer mundo a través de colaboraciones con operadores de telecomunicaciones móviles.76 77

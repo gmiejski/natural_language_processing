@@ -25,19 +25,22 @@ class NgramComparator():
                 if key not in language_dict:
                     language_dict[key] = 0
 
-            a = sorted(ngram_copy.items(), key=operator.itemgetter(0))
-            b = sorted(language_dict.items(), key=operator.itemgetter(0))
-            a_values = map(lambda x: x[1], a)
-            b_values = map(lambda x: x[1], b)
-            diff_value = self.ngram_diff(self.euklidesowa, a_values, b_values)
+            sorted_ngram = sorted(ngram_copy.items(), key=operator.itemgetter(0))
+            sorted_language_dict = sorted(language_dict.items(), key=operator.itemgetter(0))
+            sorted_ngram_values = map(lambda x: x[1], sorted_ngram)
+            sorted_language_dict = map(lambda x: x[1], sorted_language_dict)
+            diff_value = self.ngram_diff(self.euclesian, sorted_ngram_values, sorted_language_dict)
             diff_values[language] = diff_value
+            pass
+        for language, ngram_diff in diff_values.iteritems():
+            print language + ": " + str(ngram_diff) + "\n"
             pass
         return min(diff_values, key=diff_values.get)
 
     def ngram_diff(self, method, ngram1, ngram2):
         return method(ngram1, ngram2)
 
-    def euklidesowa(self, ngram1, ngram2):
+    def euclesian(self, ngram1, ngram2):
         sum = 0.0
         for i in range(0, len(ngram1)):
             sum += float((ngram1[i] - ngram2[i]) ** 2)
