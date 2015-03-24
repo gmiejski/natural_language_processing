@@ -7,7 +7,7 @@ class LevensteinDistance():
 
     def word_distance(self, word1, word2):
         matrix = self.create_matrix(word1, word2)
-        return matrix[len(word1), len(word2)]
+        return matrix[len(word2), len(word1)]
 
     def create_matrix(self, word1, word2):
         length1 = len(word1)
