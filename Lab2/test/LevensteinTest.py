@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 import unittest
 
 from impl.LevensteinDistance import LevensteinDistance
@@ -19,6 +22,9 @@ class TestStringMethods(unittest.TestCase):
     def test_not_similiar_words(self):
         self.assertEqual(self.levenstein.word_distance("auto", "automobil"), 5)
         self.assertEqual(self.levenstein.word_distance("kieszeniowka", "kreskowka"), 5)
+
+    def test_diacretic_errors(self):
+        self.assertEqual(self.levenstein.word_distance(u"ćma", u"cmą"), 1)
 
 
 if __name__ == '__main__':
