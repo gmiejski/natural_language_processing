@@ -11,13 +11,13 @@ class DiacreticCheckerTest(unittest.TestCase):
         self.diacretic = DiacreticChecker()
 
     def test_diacretic(self):
-        self.assertTrue(self.diacretic.is_diacretic_error("a", "ą"), True)
-        self.assertTrue(self.diacretic.is_diacretic_error("ą", "a"), True)
-        self.assertTrue(self.diacretic.is_diacretic_error("c", "ć"), True)
-        self.assertTrue(self.diacretic.is_diacretic_error("z", "ż"), True)
-        self.assertTrue(self.diacretic.is_diacretic_error("z", "ź"), True)
-        self.assertTrue(self.diacretic.is_diacretic_error("ż", "z"), True)
-        self.assertTrue(self.diacretic.is_diacretic_error("ź", "z"), True)
+        self.assertTrue(self.diacretic.is_diacretic_error(u"a", u"ą"), True)
+        self.assertTrue(self.diacretic.is_diacretic_error(u"ą", u"a"), True)
+        self.assertTrue(self.diacretic.is_diacretic_error(u"c", u"ć"), True)
+        self.assertTrue(self.diacretic.is_diacretic_error(u"z", u"ż"), True)
+        self.assertTrue(self.diacretic.is_diacretic_error(u"z", u"ź"), True)
+        self.assertTrue(self.diacretic.is_diacretic_error(u"ż", u"z"), True)
+        self.assertTrue(self.diacretic.is_diacretic_error(u"ź", u"z"), True)
 
     def test_not_diacretic(self):
         self.assertFalse(self.diacretic.is_diacretic_error("a", "a"), True)

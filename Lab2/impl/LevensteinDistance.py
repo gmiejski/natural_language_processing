@@ -4,9 +4,9 @@ from impl.DiacreticChecker import DiacreticChecker
 
 
 class LevensteinDistance():
-    def __init__(self):
+    def __init__(self, czech=True):
         self.diacretic_checker = DiacreticChecker()
-        pass
+        self.czech_errors = czech
 
     def word_distance(self, word1, word2):
         matrix = self.create_matrix(word1, word2)
@@ -29,6 +29,10 @@ class LevensteinDistance():
                 diff_matrix[i, j] = min(diff_matrix[i - 1, j] + 1,
                                         diff_matrix[i, j - 1] + 1,
                                         diff_matrix[i - 1, j - 1] + cost)
+
+                if self.czech_errors and i > 1 and j > 1 and (word1[j - 1] == word2[i - 2]) and \
+                        (word1[j - 2] == word2[i - 1]):
+                    diff_matrix[i, j] = min(diff_matrix[i, j], diff_matrix[i - 2, j - 2] + cost)
         return diff_matrix
 
     def are_orthographic_errors(self, l1, l2):

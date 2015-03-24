@@ -26,6 +26,9 @@ class TestStringMethods(unittest.TestCase):
     def test_diacretic_errors(self):
         self.assertEqual(self.levenstein.word_distance(u"ćma", u"cmą"), 1)
 
+    def test_czech_errors(self):
+        self.assertEqual(self.levenstein.word_distance("rzeka", "zreka"), 1)
+        self.assertEqual(self.levenstein.word_distance("reka", u"ręak"), 1.5)
 
 if __name__ == '__main__':
     unittest.main()
