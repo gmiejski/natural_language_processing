@@ -1,0 +1,17 @@
+Odległość Levensteina - odległość edycyjna
+
+ilość prostych operacji 
+
+		K	U	Z	Y	N	K	A
+	0	1	2	3	4	5	6	7
+K	1	0	1	2	3	4	5	6
+U	2	1	0	1	2	3	4	5
+R	3	2	1	1	2	3	4	5
+A	4	3	2	2	2	3	4	4
+
+Idziemy po kolei i jak się literki zgadzają, to bierzemy ze skosu na lewą górę.
+Jeżeli się nie zgadza, to bierzemy  min((z lewej + 1), 
+
+
+Co to znaczy żeby uwzględniałą coś tam ( 2 punk zadania:
+góra i gura - odległość < 1 bo to są błędy oczywiste ( na przykład odległość 0.5)
