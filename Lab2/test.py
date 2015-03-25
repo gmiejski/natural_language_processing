@@ -9,6 +9,7 @@ print levenstein_distance.create_matrix(string2, string1)
 
 similiarWordFinder = SimiliarWordFinder()
 similiarWordFinder.find_similiar_word("dupa")
+similiarWordFinder.find_similiar_word_by_all("dupa")
 
 
 
