@@ -1,0 +1,16 @@
+
+
+P(w|c) - 
+
+słowo które wpisał gość: peis, to mogło być pies(lev_dist = 1), pejs(lev_dist = 1), albo kot(lev_dist = 4)
+
+i mamy plik z najczęstszą liczbą błędów. Sprawdzamy jaka jest szansa na błąd o odległości levenstienga == 1
+i potem wychodzi, że np: jest 200 błędów o odległości 1, 60 o 2, 39 o 3 i 1 o 4.
+Więc P że to kot, 1/300, P(pies) = 200/300 itp
+
+Ale jak jakieś słowo nie występuje w pliku, to go nie podrzucimy użytkownikowi.
+Dlatego wygładzanie Laplaca, w sumie działa tak, jakby każde słowo występowało w korpusie przynajmniej raz
+
+
+
+2. dla każdej prawidłowej formy w korpusie liczymy liczbę wystapień
