@@ -3,14 +3,14 @@
 
 class DiacreticChecker:
     def __init__(self):
-        self.mapping = {"a": [u"ą", "a"], u"ą": ["a", u"ą"],
-                        "c": [u"ć", "c"], u"ć": ["c", u"ć"],
-                        "e": [u"ę", "e"], u"ę": ["e", u"ę"],
-                        "l": [u"ł", "l"], u"ł": ["l", u"ł"],
-                        "n": [u"ń", "n"], u"ń": ["n", u"ń"],
-                        "o": [u"ó", "o"], u"ó": ["o", u"ó"],
-                        "s": [u"ś", "s"], u"ś": ["s", u"ś"],
-                        "z": [u"ż", u"ź", "z"], u"ź": [u"ż", u"ź", "z"], u"ż": [u"ż", u"ź", "z"]}
+        self.mapping = {"a": [u"ą"], u"ą": ["a"],
+                        "c": [u"ć"], u"ć": ["c"],
+                        "e": [u"ę"], u"ę": ["e"],
+                        "l": [u"ł"], u"ł": ["l"],
+                        "n": [u"ń"], u"ń": ["n"],
+                        "o": [u"ó"], u"ó": ["o"],
+                        "s": [u"ś"], u"ś": ["s"],
+                        "z": [u"ż", u"ź"], u"ź": [u"ż", "z"], u"ż": [u"ź", "z"]}
 
     def is_diacretic_error(self, l1, l2):
         return l1 in self.mapping and l2 in self.mapping.get(l1)

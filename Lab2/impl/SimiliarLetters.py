@@ -11,6 +11,8 @@ class SimiliarLetter():
 
     def get_starting_letters(self, first_letter):
         if first_letter in self.mapping:
-            return self.mapping.get(first_letter)
+            result = list(self.mapping.get(first_letter))
+            result.append(first_letter)
+            return result
         else:
             return [first_letter]
