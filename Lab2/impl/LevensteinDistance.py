@@ -1,6 +1,5 @@
 import numpy
-
-from impl.DiacreticChecker import DiacreticChecker
+from Lab2.impl.DiacreticChecker import DiacreticChecker
 
 
 class LevensteinDistance():
@@ -10,7 +9,7 @@ class LevensteinDistance():
 
     def word_distance(self, word1, word2, last_dist=100000):
         try:
-            matrix = self.create_matrix(word1, word2, last_dist)
+            matrix = self.create_matrix(word1.lower(), word2.lower(), last_dist)
             return matrix[len(word2), len(word1)]
         except MyException:
             return 100000
@@ -39,6 +38,10 @@ class LevensteinDistance():
                 if i == j and diff_matrix[i, j] > last_dist:
                     raise MyException
         return diff_matrix
+
+    def print_matrix(self, word1, word2):
+        matrix = self.create_matrix(word1, word2)
+        print matrix
 
     def are_orthographic_errors(self, l1, l2):
         return self.diacretic_checker.is_diacretic_error(l1, l2)
