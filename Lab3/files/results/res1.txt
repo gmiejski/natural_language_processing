@@ -1,0 +1,916 @@
+C:\home\Python\Anaconda\python.exe "C:/home/aaaaStudia/Semestr VIII/PJN/Lab3/impl/test_on_all_errors.py"
+starting function: receive_errors_statistics
+starting function: gather_statistics
+starting function: read_statistics_from_file
+starting function: get_all_forms_count
+starting function: gather_forms_by_length
+starting function: read_forms_by_length_from_file
+Finding best fix for word: abonamęt
+For bad word = abonamęt, where proper fix should be: abonament
+, we have found: ponadto
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: agrawce
+For bad word = agrawce, where proper fix should be: agrafce
+, we have found: prawie
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: akcesorii
+For bad word = akcesorii, where proper fix should be: akcesoriów
+, we have found: zakresie
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: akfamaryną
+For bad word = akfamaryną, where proper fix should be: akwamarynem
+, we have found: dziewięćset
+Levenstein for those 2 fixes = 12.0
+Finding best fix for word: aktułalnie
+For bad word = aktułalnie, where proper fix should be: aktualnie
+, we have found: naturalnie
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: akwariumowy
+For bad word = akwariumowy, where proper fix should be: akwarystyczny
+, we have found: dziewięćset
+Levenstein for those 2 fixes = 14.5
+Finding best fix for word: allegrowiczą
+For bad word = allegrowiczą, where proper fix should be: allegrowiczom
+, we have found: dziewięćset
+Levenstein for those 2 fixes = 12.0
+Finding best fix for word: allegrowiczy
+For bad word = allegrowiczy, where proper fix should be: allegrowiczów
+, we have found: dziewięćset
+Levenstein for those 2 fixes = 12.0
+Finding best fix for word: altomatow
+For bad word = altomatow, where proper fix should be: automatów
+, we have found: natomiast
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: ałkcja
+For bad word = ałkcja, where proper fix should be: aukcja
+, we have found: można
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: ałkcjie
+For bad word = ałkcjie, where proper fix should be: aukcję
+, we have found: właśnie
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: ampółkę
+For bad word = ampółkę, where proper fix should be: ampułkę
+, we have found: polski
+Levenstein for those 2 fixes = 7.5
+Finding best fix for word: angarzuje
+For bad word = angarzuje, where proper fix should be: angażuje
+, we have found: znajduje
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: antyrozpryzkową
+For bad word = antyrozpryzkową, where proper fix should be: antyrozpryskową
+, we have found: sześćdziesiątym
+Levenstein for those 2 fixes = 15.0
+Finding best fix for word: aódi
+For bad word = aódi, where proper fix should be: audi
+, we have found: się
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: apsolutnie
+For bad word = apsolutnie, where proper fix should be: absolutnie
+, we have found: wszystkie
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: apsurd
+For bad word = apsurd, where proper fix should be: absurd
+, we have found: przed
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: arafadki
+For bad word = arafadki, where proper fix should be: arafatki
+, we have found: prowadzi
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: Arde Co
+For bad word = Arde Co, where proper fix should be: Art Deco
+, we have found: bardzo
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: ardeko
+For bad word = ardeko, where proper fix should be: Art Deco
+, we have found: bardzo
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: aromaterapełtyczne
+For bad word = aromaterapełtyczne, where proper fix should be: aromaterapeutyczne
+, we have found: autoterapeutyczne
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: artykół
+For bad word = artykół, where proper fix should be: artykuł
+, we have found: przykład
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: atmoswera
+For bad word = atmoswera, where proper fix should be: atmosfera
+, we have found: atmosferze
+Levenstein for those 2 fixes = 3.0
+Finding best fix for word: atramęcie
+For bad word = atramęcie, where proper fix should be: atramencie
+, we have found: wreszcie
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: aukcie
+For bad word = aukcie, where proper fix should be: aukcję
+, we have found: takie
+Levenstein for those 2 fixes = 6.5
+Finding best fix for word: aukcie
+For bad word = aukcie, where proper fix should be: aukcje
+, we have found: takie
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: aukcjia
+For bad word = aukcjia, where proper fix should be: aukcja
+, we have found: funkcji
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: awiędz
+For bad word = awiędz, where proper fix should be: a więc
+, we have found: między
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: bać
+For bad word = bać, where proper fix should be: bądź
+, we have found: się
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: bagarznik
+For bad word = bagarznik, where proper fix should be: bagażnik
+, we have found: znacznie
+Levenstein for those 2 fixes = 7.5
+Finding best fix for word: balejarzem
+For bad word = balejarzem, where proper fix should be: balejażem
+, we have found: kolejarze
+Levenstein for those 2 fixes = 6.5
+Finding best fix for word: bąbki
+For bad word = bąbki, where proper fix should be: bombki
+, we have found: tylko
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: beasbolóka
+For bad word = beasbolóka, where proper fix should be: bejsbolówka
+, we have found: republiki
+Levenstein for those 2 fixes = 9.0
+Finding best fix for word: beczółka
+For bad word = beczółka, where proper fix should be: beczułka
+, we have found: jeszcze
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: Beder Majer
+For bad word = Beder Majer, where proper fix should be: biedermeier
+, we have found: dziewięćset
+Levenstein for those 2 fixes = 11.0
+Finding best fix for word: bende
+For bad word = bende, where proper fix should be: będę
+, we have found: jest
+Levenstein for those 2 fixes = 5.5
+Finding best fix for word: bendzie
+For bad word = bendzie, where proper fix should be: będzie
+, we have found: bardzo
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: berzowy
+For bad word = berzowy, where proper fix should be: beżowy
+, we have found: bardzo
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: bescen
+For bad word = bescen, where proper fix should be: bezcen
+, we have found: jeszcze
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: beszczelny
+For bad word = beszczelny, where proper fix should be: bezczelny
+, we have found: szczególnie
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: bencwale
+For bad word = bencwale, where proper fix should be: bęcwale
+, we have found: jeszcze
+Levenstein for those 2 fixes = 7.5
+Finding best fix for word: bezceler
+For bad word = bezceler, where proper fix should be: bestseller
+, we have found: jeszcze
+Levenstein for those 2 fixes = 9.0
+Finding best fix for word: bezcent
+For bad word = bezcent, where proper fix should be: bezcen
+, we have found: procent
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: będoł
+For bad word = będoł, where proper fix should be: będą
+, we have found: było
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: bęty
+For bad word = bęty, where proper fix should be: bełty
+, we have found: się
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: bęzynowa
+For bad word = bęzynowa, where proper fix should be: benzynowa
+, we have found: stanowi
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: bierzący
+For bad word = bierzący, where proper fix should be: bieżący
+, we have found: pierwszy
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: bimboniera
+For bad word = bimboniera, where proper fix should be: bomboniera
+, we have found: inżyniera
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: biórko
+For bad word = biórko, where proper fix should be: biurko
+, we have found: tylko
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: biuzcie
+For bad word = biuzcie, where proper fix should be: biuście
+, we have found: jeszcze
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: blad
+For bad word = blad, where proper fix should be: blat
+, we have found: się
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: blądyna
+For bad word = blądyna, where proper fix should be: blondyna
+, we have found: bardzo
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: blew
+For bad word = blew, where proper fix should be: blef
+, we have found: nie
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: bluska
+For bad word = bluska, where proper fix should be: bluzka
+, we have found: tylko
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: bodajrze
+For bad word = bodajrze, where proper fix should be: bodajże
+, we have found: jeszcze
+Levenstein for those 2 fixes = 7.5
+Finding best fix for word: bolcy
+For bad word = bolcy, where proper fix should be: bolców
+, we have found: tylko
+Levenstein for those 2 fixes = 6.5
+Finding best fix for word: bonos
+For bad word = bonos, where proper fix should be: bonus
+, we have found: było
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: bódzik
+For bad word = bódzik, where proper fix should be: budzik
+, we have found: gdzie
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: branzoleta
+For bad word = branzoleta, where proper fix should be: bransoleta
+, we have found: prezydenta
+Levenstein for those 2 fixes = 9.0
+Finding best fix for word: brązoletka
+For bad word = brązoletka, where proper fix should be: bransoleta
+, we have found: urządzenia
+Levenstein for those 2 fixes = 10.0
+Finding best fix for word: brobinkami
+For bad word = brobinkami, where proper fix should be: drobinkami
+, we have found: produkcji
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: bronsoletę
+For bad word = bronsoletę, where proper fix should be: bransoletę
+, we have found: dziewięćset
+Levenstein for those 2 fixes = 11.5
+Finding best fix for word: bronzowy
+For bad word = bronzowy, where proper fix should be: brązowy
+, we have found: rozmowy
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: brożka
+For bad word = brożka, where proper fix should be: broszka
+, we have found: można
+Levenstein for those 2 fixes = 6.5
+Finding best fix for word: bródny
+For bad word = bródny, where proper fix should be: brudny
+, we have found: bardzo
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: brudna róż
+For bad word = brudna róż, where proper fix should be: brudny róż
+, we have found: trudności
+Levenstein for those 2 fixes = 7.5
+Finding best fix for word: brylok
+For bad word = brylok, where proper fix should be: brelok
+, we have found: tylko
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: bulem
+For bad word = bulem, where proper fix should be: bólem
+, we have found: przez
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: bydlencej
+For bad word = bydlencej, where proper fix should be: bydlęcej
+, we have found: najlepiej
+Levenstein for those 2 fixes = 7.5
+Finding best fix for word: cantry
+For bad word = cantry, where proper fix should be: country
+, we have found: który
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: cfaniak
+For bad word = cfaniak, where proper fix should be: cwaniak
+, we have found: jednak
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: cieszki
+For bad word = cieszki, where proper fix should be: ciężki
+, we have found: jeszcze
+Levenstein for those 2 fixes = 7.5
+Finding best fix for word: cież
+For bad word = cież, where proper fix should be: ciesz
+, we have found: ale
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: ciękie
+For bad word = ciękie, where proper fix should be: cienkie
+, we have found: takie
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: chaftki
+For bad word = chaftki, where proper fix should be: haftki
+, we have found: chwili
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: chalasuje
+For bad word = chalasuje, where proper fix should be: hałasuje
+, we have found: znajduje
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: chalka
+For bad word = chalka, where proper fix should be: halka
+, we have found: tylko
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: chalogenowa
+For bad word = chalogenowa, where proper fix should be: halogenowa
+, we have found: dziewięćset
+Levenstein for those 2 fixes = 12.0
+Finding best fix for word: chamulec
+For bad word = chamulec, where proper fix should be: hamulec
+, we have found: właśnie
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: chandlować
+For bad word = chandlować, where proper fix should be: handlować
+, we have found: handlowej
+Levenstein for those 2 fixes = 4.0
+Finding best fix for word: chawt
+For bad word = chawt, where proper fix should be: haft
+, we have found: jest
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: chcem
+For bad word = chcem, where proper fix should be: chcę
+, we have found: przez
+Levenstein for those 2 fixes = 5.5
+Finding best fix for word: cheblowania
+For bad word = cheblowania, where proper fix should be: heblowania
+, we have found: planowania
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: chełmo-kask
+For bad word = chełmo-kask, where proper fix should be: hełmo-kask
+, we have found: dziewięćset
+Levenstein for those 2 fixes = 11.0
+Finding best fix for word: cherb
+For bad word = cherb, where proper fix should be: herb
+, we have found: jest
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: cherbacianego
+For bad word = cherbacianego, where proper fix should be: herbacianego
+, we have found: chruścianego
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: chisteryczna
+For bad word = chisteryczna, where proper fix should be: histeryczna
+, we have found: historyczne
+Levenstein for those 2 fixes = 4.0
+Finding best fix for word: chity
+For bad word = chity, where proper fix should be: hity
+, we have found: jest
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: chiszpańskim
+For bad word = chiszpańskim, where proper fix should be: hiszpańskim
+, we have found: hiszpańskiej
+Levenstein for those 2 fixes = 3.0
+Finding best fix for word: chlajnoga
+For bad word = chlajnoga, where proper fix should be: hulajnoga
+, we have found: dlaczego
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: chlopakowe
+For bad word = chlopakowe, where proper fix should be: chłopięce
+, we have found: członkowie
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: chociarz
+For bad word = chociarz, where proper fix should be: chociaż
+, we have found: dopiero
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: chociasz
+For bad word = chociasz, where proper fix should be: chociaż
+, we have found: chciałem
+Levenstein for those 2 fixes = 4.0
+Finding best fix for word: chodowany
+For bad word = chodowany, where proper fix should be: hodowany
+, we have found: zbudowany
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: chomologacja
+For bad word = chomologacja, where proper fix should be: homologacja
+, we have found: dziewięćset
+Levenstein for those 2 fixes = 12.5
+Finding best fix for word: chonorowe
+For bad word = chonorowe, where proper fix should be: honorowe
+, we have found: członkowie
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: chorednalnie
+For bad word = chorednalnie, where proper fix should be: horrendalnie
+, we have found: dziewięćset
+Levenstein for those 2 fixes = 12.0
+Finding best fix for word: chospitalizacja
+For bad word = chospitalizacja, where proper fix should be: hospitalizacja
+, we have found: hospitalizacjom
+Levenstein for those 2 fixes = 3.0
+Finding best fix for word: chumor
+For bad word = chumor, where proper fix should be: humor
+, we have found: tylko
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: churtowa
+For bad word = churtowa, where proper fix should be: hurtowa
+, we have found: państwa
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: cieczom
+For bad word = cieczom, where proper fix should be: cieczą
+, we have found: bardzo
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: ciencia
+For bad word = ciencia, where proper fix should be: cięcia
+, we have found: ciebie
+Levenstein for those 2 fixes = 4.5
+Finding best fix for word: cienżarowy
+For bad word = cienżarowy, where proper fix should be: ciężarowy
+, we have found: ciężarowych
+Levenstein for those 2 fixes = 2.0
+Finding best fix for word: cięką
+For bad word = cięką, where proper fix should be: cienką
+, we have found: więc
+Levenstein for those 2 fixes = 6.5
+Finding best fix for word: ciongnik
+For bad word = ciongnik, where proper fix should be: ciągnik
+, we have found: czynnik
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: cód
+For bad word = cód, where proper fix should be: cud
+, we have found: się
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: códowna
+For bad word = códowna, where proper fix should be: cudowna
+, we have found: jednak
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: curka
+For bad word = curka, where proper fix should be: córka
+, we have found: tylko
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: cut
+For bad word = cut, where proper fix should be: cud
+, we have found: się
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: cuż
+For bad word = cuż, where proper fix should be: cóż
+, we have found: się
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: cyfronicznego
+For bad word = cyfronicznego, where proper fix should be: cyfrowego
+, we have found: zagranicznego
+Levenstein for those 2 fixes = 11.0
+Finding best fix for word: czciny
+For bad word = czciny, where proper fix should be: trzciny
+, we have found: cztery
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: czeba
+For bad word = czeba, where proper fix should be: trzeba
+, we have found: jest
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: czegusz
+For bad word = czegusz, where proper fix should be: czegóż
+, we have found: zawsze
+Levenstein for those 2 fixes = 6.5
+Finding best fix for word: czeńści
+For bad word = czeńści, where proper fix should be: części
+, we have found: często
+Levenstein for those 2 fixes = 4.5
+Finding best fix for word: czeszczy
+For bad word = czeszczy, where proper fix should be: trzeszczy
+, we have found: jeszcze
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: czonku
+For bad word = czonku, where proper fix should be: trzonku
+, we have found: tylko
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: czójnik
+For bad word = czójnik, where proper fix should be: czujnik
+, we have found: czasie
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: czułenka
+For bad word = czułenka, where proper fix should be: czółenka
+, we have found: członków
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: czyma
+For bad word = czyma, where proper fix should be: trzyma
+, we have found: przy
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: czyszczęce
+For bad word = czyszczęce, where proper fix should be: czyszczące
+, we have found: błyszczące
+Levenstein for those 2 fixes = 4.0
+Finding best fix for word: czytać umię
+For bad word = czytać umię, where proper fix should be: czytać umiem
+, we have found: dziewięćset
+Levenstein for those 2 fixes = 12.0
+Finding best fix for word: daleko sienrzne
+For bad word = daleko sienrzne, where proper fix should be: dalekosiężne
+, we have found: sześćdziesiątym
+Levenstein for those 2 fixes = 13.5
+Finding best fix for word: darójmy
+For bad word = darójmy, where proper fix should be: darujmy
+, we have found: bardzo
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: delikfent
+For bad word = delikfent, where proper fix should be: delikwent
+, we have found: dlaczego
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: dekold
+For bad word = dekold, where proper fix should be: dekolt
+, we have found: tylko
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: dembowy
+For bad word = dembowy, where proper fix should be: dębowy
+, we have found: pomocy
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: dewiską
+For bad word = dewiską, where proper fix should be: dewizką
+, we have found: jednak
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: dłóg
+For bad word = dłóg, where proper fix should be: dług
+, we have found: się
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: dłógość
+For bad word = dłógość, where proper fix should be: długość
+, we have found: drugiej
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: długowietrzna
+For bad word = długowietrzna, where proper fix should be: długowieczna
+, we have found: długowieczne
+Levenstein for those 2 fixes = 3.0
+Finding best fix for word: dobur
+For bad word = dobur, where proper fix should be: dobór
+, we have found: roku
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: dokujoncom
+For bad word = dokujoncom, where proper fix should be: dokującą
+, we have found: dokumentem
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: dokumęty
+For bad word = dokumęty, where proper fix should be: dokumenty
+, we have found: tysięcy
+Levenstein for those 2 fixes = 9.5
+Finding best fix for word: dolanczam
+For bad word = dolanczam, where proper fix should be: dołączam
+, we have found: dlaczego
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: dopuki
+For bad word = dopuki, where proper fix should be: dopóki
+, we have found: tylko
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: dorobinami
+For bad word = dorobinami, where proper fix should be: drobinami
+, we have found: dorobkiem
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: dotąt
+For bad word = dotąt, where proper fix should be: dotąd
+, we have found: jest
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: dożucam
+For bad word = dożucam, where proper fix should be: dorzucam
+, we have found: drugim
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: dożucić
+For bad word = dożucić, where proper fix should be: dorzucić
+, we have found: dzieci
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: dópa
+For bad word = dópa, where proper fix should be: dupa
+, we have found: się
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: drahm
+For bad word = drahm, where proper fix should be: drachm
+, we have found: oraz
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: drapierzne
+For bad word = drapierzne, where proper fix should be: drapieżne
+, we have found: konieczne
+Levenstein for those 2 fixes = 7.5
+Finding best fix for word: drógim
+For bad word = drógim, where proper fix should be: drugim
+, we have found: przez
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: drzemy
+For bad word = drzemy, where proper fix should be: dżemy
+, we have found: przez
+Levenstein for those 2 fixes = 6.5
+Finding best fix for word: dugopis
+For bad word = dugopis, where proper fix should be: długopis
+, we have found: drugim
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: dul
+For bad word = dul, where proper fix should be: dół
+, we have found: się
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: durzej
+For bad word = durzej, where proper fix should be: dużej
+, we have found: przez
+Levenstein for those 2 fixes = 5.5
+Finding best fix for word: durzej
+For bad word = durzej, where proper fix should be: dłużej
+, we have found: przez
+Levenstein for those 2 fixes = 6.5
+Finding best fix for word: durzo
+For bad word = durzo, where proper fix should be: dużo
+, we have found: przy
+Levenstein for those 2 fixes = 5.5
+Finding best fix for word: dwónastka
+For bad word = dwónastka, where proper fix should be: dwunastka
+, we have found: wszystko
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: dwóstronna
+For bad word = dwóstronna, where proper fix should be: dwustronna
+, we have found: dwustronnej
+Levenstein for those 2 fixes = 3.0
+Finding best fix for word: dziecience
+For bad word = dziecience, where proper fix should be: dziecięce
+, we have found: dziewięćset
+Levenstein for those 2 fixes = 4.5
+Finding best fix for word: dzienkuje
+For bad word = dzienkuje, where proper fix should be: dziękuję
+, we have found: dziesięć
+Levenstein for those 2 fixes = 5.5
+Finding best fix for word: dzież
+For bad word = dzież, where proper fix should be: dzieża
+, we have found: mnie
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: dzióra
+For bad word = dzióra, where proper fix should be: dziura
+, we have found: która
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: dzwienku
+For bad word = dzwienku, where proper fix should be: dźwięku
+, we have found: związku
+Levenstein for those 2 fixes = 5.5
+Finding best fix for word: dżazg
+For bad word = dżazg, where proper fix should be: drzazg
+, we have found: oraz
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: dźwi
+For bad word = dźwi, where proper fix should be: drzwi
+, we have found: się
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: ecrue
+For bad word = ecrue, where proper fix should be: écru
+, we have found: przez
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: ecrui
+For bad word = ecrui, where proper fix should be: écru
+, we have found: przy
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: ecry
+For bad word = ecry, where proper fix should be: écru
+, we have found: się
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: ecure
+For bad word = ecure, where proper fix should be: écru
+, we have found: które
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: efektowane
+For bad word = efektowane, where proper fix should be: efektowne
+, we have found: elektrowni
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: egzemplaż
+For bad word = egzemplaż, where proper fix should be: egzemplarz
+, we have found: przecież
+Levenstein for those 2 fixes = 9.5
+Finding best fix for word: egzęplarz
+For bad word = egzęplarz, where proper fix should be: egzemplaż
+, we have found: sekretarz
+Levenstein for those 2 fixes = 9.0
+Finding best fix for word: egzęplaż
+For bad word = egzęplaż , where proper fix should be: egzęplarz
+, we have found: przecież
+Levenstein for those 2 fixes = 9.0
+Finding best fix for word: ekri
+For bad word = ekri, where proper fix should be: écru
+, we have found: się
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: ekrii
+For bad word = ekrii, where proper fix should be: écru
+, we have found: przy
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: ekru
+For bad word = ekru, where proper fix should be: écru
+, we have found: się
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: ekry
+For bad word = ekry, where proper fix should be: écru
+, we have found: się
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: eksklózywne
+For bad word = eksklózywne, where proper fix should be: ekskluzywne
+, we have found: dziewięćset
+Levenstein for those 2 fixes = 12.0
+Finding best fix for word: elegandzka
+For bad word = elegandzka, where proper fix should be: elegancka
+, we have found: delegacja
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: energi
+For bad word = energi, where proper fix should be: energii
+, we have found: teraz
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: eqri
+For bad word = eqri, where proper fix should be: écru
+, we have found: się
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: eqrie
+For bad word = eqrie, where proper fix should be: écru
+, we have found: mnie
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: eqru
+For bad word = eqru, where proper fix should be: écru
+, we have found: się
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: essei
+For bad word = essei, where proper fix should be: esejów
+, we have found: jest
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: etłi
+For bad word = etłi, where proper fix should be: etui
+, we have found: się
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: exstra
+For bad word = exstra, where proper fix should be: ekstra
+, we have found: która
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: exstra
+For bad word = exstra, where proper fix should be: extra
+, we have found: która
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: extrymalnie
+For bad word = extrymalnie, where proper fix should be: ekstremalnie
+, we have found: utrzymanie
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: faktórą
+For bad word = faktórą, where proper fix should be: fakturą
+, we have found: którzy
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: feair
+For bad word = feair, where proper fix should be: fair
+, we have found: jest
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: fer
+For bad word = fer, where proper fix should be: fair
+, we have found: się
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: ferplej
+For bad word = ferplej, where proper fix should be: fairplay
+, we have found: lepiej
+Levenstein for those 2 fixes = 9.0
+Finding best fix for word: ferr
+For bad word = ferr, where proper fix should be: fair
+, we have found: się
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: figorka
+For bad word = figorka, where proper fix should be: figurka
+, we have found: jednak
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: figóry
+For bad word = figóry, where proper fix should be: figury
+, we have found: który
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: filcharmonia
+For bad word = filcharmonia, where proper fix should be: fisharmonia
+, we have found: filharmoniach
+Levenstein for those 2 fixes = 3.0
+Finding best fix for word: firzbiny
+For bad word = firzbiny, where proper fix should be: fiszbiny
+, we have found: godziny
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: fiżbinie
+For bad word = fiżbinie, where proper fix should be: fiszbinie
+, we have found: właśnie
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: fjoletowego
+For bad word = fjoletowego, where proper fix should be: fioletowego
+, we have found: kolejowego
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: fluorostencyjne
+For bad word = fluorostencyjne, where proper fix should be: fluorescencyjne
+, we have found: fluorescencyjna
+Levenstein for those 2 fixes = 3.0
+Finding best fix for word: flustracje
+For bad word = flustracje, where proper fix should be: frustracje
+, we have found: fluktuacji
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: francuzki
+For bad word = francuzki, where proper fix should be: francuski
+, we have found: francuscy
+Levenstein for those 2 fixes = 4.0
+Finding best fix for word: francuzki
+For bad word = francuzki, where proper fix should be: Francuzki
+, we have found: francuscy
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: frendzle
+For bad word = frendzle, where proper fix should be: frędzle
+, we have found: jeszcze
+Levenstein for those 2 fixes = 7.5
+Finding best fix for word: fri
+For bad word = fri, where proper fix should be: free
+, we have found: się
+Levenstein for those 2 fixes = 5.5
+Finding best fix for word: fszystkie
+For bad word = fszystkie, where proper fix should be: wszystkie
+, we have found: wszystko
+Levenstein for those 2 fixes = 4.0
+Finding best fix for word: ftedy
+For bad word = ftedy, where proper fix should be: wtedy
+, we have found: jest
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: garasz
+For bad word = garasz, where proper fix should be: garaż
+, we have found: przez
+Levenstein for those 2 fixes = 5.5
+Finding best fix for word: garczków
+For bad word = garczków, where proper fix should be: garnczków
+, we have found: warunków
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: gąg
+For bad word = gąg, where proper fix should be: gong
+, we have found: się
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: gąpeczki
+For bad word = gąpeczki, where proper fix should be: gąbeczki
+, we have found: jeszcze
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: geodeta
+For bad word = geodeta, where proper fix should be: geoda
+, we have found: jednak
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: giątki
+For bad word = giątki, where proper fix should be: giętki
+, we have found: tylko
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: gipiórową
+For bad word = gipiórową, where proper fix should be: gipiurową
+, we have found: milionów
+Levenstein for those 2 fixes = 7.5
+Finding best fix for word: głatko lufowa
+For bad word = głatko lufowa, where proper fix should be: gładkolufowa
+, we have found: pięćdziesiąt
+Levenstein for those 2 fixes = 13.5
+Finding best fix for word: gmatfanina
+For bad word = gmatfanina, where proper fix should be: gmatwanina
+, we have found: spotkania
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: gniecący
+For bad word = gniecący, where proper fix should be: gniotący
+, we have found: bieżącym
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: gobka
+For bad word = gobka, where proper fix should be: gąbka
+, we have found: roku
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: golembi
+For bad word = golembi, where proper fix should be: gołębi
+, we have found: polski
+Levenstein for those 2 fixes = 5.5
+Finding best fix for word: gokard
+For bad word = gokard, where proper fix should be: gokart
+, we have found: ponad
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: gombka
+For bad word = gombka, where proper fix should be: gąbka
+, we have found: sobie
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: gompka
+For bad word = gompka, where proper fix should be: gąbka
+, we have found: można
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: gómce
+For bad word = gómce, where proper fix should be: gumce
+, we have found: może
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: góru
+For bad word = góru, where proper fix should be: guru
+, we have found: się
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: góże
+For bad word = góże, where proper fix should be: górze
+, we have found: nie
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: grabaża
+For bad word = grabaża, where proper fix should be: grabarza
+, we have found: trzeba
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: gradka
+For bad word = gradka, where proper fix should be: gratka
+, we have found: bardzo
+Levenstein for those 2 fixes = 7.0
+Finding best fix for word: groby
+For bad word = groby, where proper fix should be: gruby
+, we have found: przy
+Levenstein for those 2 fixes = 5.0
+Finding best fix for word: gróbą
+For bad word = gróbą, where proper fix should be: grubą
+, we have found: przez
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: gródnia
+For bad word = gródnia, where proper fix should be: grudnia
+, we have found: również
+Levenstein for those 2 fixes = 6.0
+Finding best fix for word: gudyar
+For bad word = gudyar, where proper fix should be: goodyear
+, we have found: jednak
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: gwarka
+For bad word = gwarka, where proper fix should be: gwarancja
+, we have found: tylko
+Levenstein for those 2 fixes = 11.0
+Finding best fix for word: gwiastką
+For bad word = gwiastką, where proper fix should be: gwiazdką
+, we have found: wszystko
+Levenstein for those 2 fixes = 8.0
+Finding best fix for word: gwizda

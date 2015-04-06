@@ -3,7 +3,7 @@
 
 import unittest
 
-from impl.LevensteinDistance import LevensteinDistance
+from Lab2.impl.LevensteinDistance import LevensteinDistance
 
 
 class TestStringMethods(unittest.TestCase):
@@ -27,8 +27,11 @@ class TestStringMethods(unittest.TestCase):
         self.assertEqual(self.levenstein.word_distance(u"ćma", u"cmą"), 1)
 
     def test_czech_errors(self):
-        self.assertEqual(self.levenstein.word_distance("rzeka", "zreka"), 1)
+        self.assertEqual(self.levenstein.word_distance("rzeka", "zreka"), 1.5)
         self.assertEqual(self.levenstein.word_distance("reka", u"ręak"), 1.5)
+
+    def test_should_ignore_ortographic_errors(self):
+        self.assertEqual(self.levenstein.word_distance("rzeka", u"żeka"), 0)
 
 if __name__ == '__main__':
     unittest.main()

@@ -4,16 +4,11 @@
 import codecs
 import collections
 import re
-import os
+
 from Lab3.impl.StatisticsCollector import StatisticsCollector
 
 
-print os.getcwd()
-print os.path.dirname(os.path.abspath(__file__))
-
 statistic_collector = StatisticsCollector()
-
-statistic_collector.collect_statistics()
 
 all_files_names = ["popul.iso.utf8", 'dramat.iso.utf8', 'proza.iso.utf8', 'publ.iso.utf8', 'wp.iso.utf8']
 

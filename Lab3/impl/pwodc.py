@@ -7,17 +7,19 @@ from operator import attrgetter
 import math
 
 from Lab2.impl.LevensteinDistance import LevensteinDistance
+from Lab3.impl.utils.echo_decorator import echo
 
 
 class PWODC():
     def __init__(self):
         self.levenstein = LevensteinDistance()
-        self.probability_statistics = self.receive_statistics()
+        self.probability_statistics = self.receive_errors_statistics()
 
-    def pwodc(self, w, c):
-        real_distance = self.levenstein.word_distance(w, c)
-        print 'real distance = ' + str(real_distance)
-        self.levenstein.print_matrix(w, c)
+    def pwodc(self, w, c, real_distance=None):
+        if real_distance is None:
+            real_distance = self.levenstein.word_distance(w, c)
+        # print 'real distance = ' + str(real_distance)
+        # self.levenstein.print_matrix(w, c)
         if real_distance in self.probability_statistics.keys():
             probability_by_dist = DistanceProbability(real_distance, self.probability_statistics[real_distance])
         else:
@@ -27,7 +29,8 @@ class PWODC():
                     probability_by_dist = DistanceProbability(distance, probability)
         return probability_by_dist
 
-    def receive_statistics(self):
+    @echo
+    def receive_errors_statistics(self):
         error_statistics = collections.defaultdict(lambda: 0)
         total_errors = 0
         for line in codecs.open("../files/bledy.txt", 'r', 'utf-8'):

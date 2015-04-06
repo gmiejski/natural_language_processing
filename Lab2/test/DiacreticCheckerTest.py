@@ -3,7 +3,8 @@
 
 
 import unittest
-from impl.DiacreticChecker import DiacreticChecker
+
+from Lab2.impl.DiacreticChecker import DiacreticChecker
 
 
 class DiacreticCheckerTest(unittest.TestCase):
