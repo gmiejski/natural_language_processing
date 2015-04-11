@@ -1,0 +1,15 @@
+p - macierz przejścia, chcąc wyliczyć N-ty element bierzemy i zaczynamy od x0 i mnożymy przez ten 
+1. tworzy się model - u nas to będzie korpus
+2. tworzymy łąńcuch, historia przejścia jest naszym obiektem ( 
+	kończymy jak - uznamy że już za dużo kroków na przykłąd ( manual linuxowy ma jakąś długość, więc można 
+	
+	
+Jak to się robi - digramy + na każdą strzałką w ilości wystąpień przejść.
+
+I normalizujemy w każdym przejściu 
+
+
+Teraz losujemy stan początkowy z równycm prawdopodobieństwem i losujemy kolejne elementy
+
+generowanie słów - di gramy literowe i tak samo
+Do zadania 3. można wziąć formy.txt
