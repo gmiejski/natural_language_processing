@@ -58,10 +58,11 @@ class Ngramer:
 
     def join_words(self, sentence, n):
         # return [' '.join(sentence[i:i + n]) for i in range(0, len(sentence) - 2)] + [sentence[-1] + ' .']
-        w = ['. ' + sentence[0]] + [' '.join(sentence[i:i + n]) for i in range(0, len(sentence) - 2)]
+        w = ['# ' + sentence[0]] + [' '.join(sentence[i:i + n]) for i in range(0, len(sentence) - 2)]
         if len(sentence) > 2:
             w += [sentence[-2] + ' ' + sentence[-1][:-1]]
-        w += [sentence[-1][:-1] + ' ' + sentence[-1][-1]]
+        # w += [sentence[-1][:-1] + ' ' + sentence[-1][-1]]
+        w += [sentence[-1][:-1] + ' #']
         return w
 
 
