@@ -17,7 +17,6 @@ class MarkovChain():
     def generate_sentence(self, count):
         sentences = []
         for i in range(0, count):
-
             last_ngram = self.get_random_start()
             sentence = last_ngram
             while '#' not in last_ngram or ('#' in last_ngram and len(sentence.split()) < 5):

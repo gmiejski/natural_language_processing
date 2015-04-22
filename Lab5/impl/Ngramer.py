@@ -11,7 +11,6 @@ import nltk.data
 class Ngramer:
     def __init__(self):
         self.file_extension = ".txt"
-        self.results_files_path = "./results/"
 
     def ngram_func(self, word, n):
         return [word[i:i + n] for i in range(0, len(word))]
@@ -34,10 +33,8 @@ class Ngramer:
             sentences = nltk.sent_tokenize(text, language='polish')
             for sentence in sentences:
                 words_in_line = sentence.lower().split()
-                # words_in_line = map(lambda x: re.sub('[~!?@#$%^&*()_+{}":;\'-,\-`]+', "", x), words_in_line)
                 words_in_line = map(lambda x: x.replace('\n', '').replace('\r', ''), words_in_line)
                 words_in_line = filter(lambda x: '#' not in x, words_in_line)
-                # words_in_line = filter(lambda x: not self.having_special_characters(x), words_in_line)
                 all_words.append(words_in_line)
         return all_words
 
@@ -57,11 +54,9 @@ class Ngramer:
         return all_ngrams
 
     def join_words(self, sentence, n):
-        # return [' '.join(sentence[i:i + n]) for i in range(0, len(sentence) - 2)] + [sentence[-1] + ' .']
         w = ['# ' + sentence[0]] + [' '.join(sentence[i:i + n]) for i in range(0, len(sentence) - 2)]
         if len(sentence) > 2:
             w += [sentence[-2] + ' ' + sentence[-1][:-1]]
-        # w += [sentence[-1][:-1] + ' ' + sentence[-1][-1]]
         w += [sentence[-1][:-1] + ' #']
         return w
 
