@@ -1,5 +1,6 @@
 import codecs
 import collections
+import copy
 import re
 import math
 
@@ -9,6 +10,7 @@ class TfIdf():
         self.basic_form_of_words = self.basic_form_of_words()
         self.words_in_each_note = self.words_frequency_in_each_note()
         self.N = len(self.words_in_each_note.keys())
+        self.cached_idf_matrix = None
         pass
 
 
@@ -49,11 +51,20 @@ class TfIdf():
 
 
     def tf_idf(self, term, document):
-        basic_term = self.basic_form_of_words[term]
-        weight = self.words_in_each_note[document][basic_term] * math.log(self.N / self.df(basic_term))
+        # basic_term = self.basic_form_of_words[term]
+        weight = self.words_in_each_note[document][term] * math.log(self.N / float(self.df(term)))
         return weight
 
     def idf_matrix(self):
-        return self.words_in_each_note
+        if self.cached_idf_matrix is None:
+            self.cached_idf_matrix = {}
+            for note_id, words in self.words_in_each_note.iteritems():
+                words_copy = copy.deepcopy(words)
+                mmm = collections.defaultdict(lambda: 0)
+                for word, val in words_copy.iteritems():
+                    mmm[word] = self.tf_idf(word, note_id)
+                self.cached_idf_matrix[note_id] = mmm
+
+        return self.cached_idf_matrix
 
 
