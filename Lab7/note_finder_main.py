@@ -10,7 +10,9 @@ tf_idf.tf_idf('do', '#000003')
 
 note_finder = NoteFinder()
 
-notes = note_finder.find_notes("do", tf_idf.idf_matrix())
-
-for note in notes:
-    print note.text
+while True:
+    print ''
+    term = raw_input('term: ')
+    notes = note_finder.find_notes(unicode(term, 'utf-8'), tf_idf.idf_matrix())
+    for note in notes:
+        print note.text
