@@ -15,7 +15,7 @@ class TfIdf():
 
 
     def basic_form_of_words(self):
-        basic_forms_of_words = {}
+        basic_forms_of_words = collections.defaultdict(lambda: 0)
         for line in codecs.open('./files/odm.txt', 'r', 'utf-8'):
             words = map(lambda x: x.strip().lower(), line.split(','))
             basic_word_form = words[0]
@@ -51,7 +51,6 @@ class TfIdf():
 
 
     def tf_idf(self, term, document):
-        # basic_term = self.basic_form_of_words[term]
         weight = self.words_in_each_note[document][term] * math.log(self.N / float(self.df(term)))
         return weight
 

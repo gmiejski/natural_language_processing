@@ -45,7 +45,7 @@ class FrequencyReader():
     def word_frequencies(self):
         basic_forms_of_words = {}
         for line in codecs.open('./files/odm.txt', 'r', 'utf-8'):
-            words = map(lambda x: x.strip(), line.split(','))
+            words = map(lambda x: x.strip().lower(), line.split(','))
             basic_word_form = words[0]
             for word in words:
                 basic_forms_of_words[word] = basic_word_form
